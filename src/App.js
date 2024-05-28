@@ -6,9 +6,11 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div>
-      <Banner />
+      <h1>cognaal.ai/h1>
+      <h2>stranica jebenica</h2>
+      /*<Banner />
       <ImageGallery />
-      <Footer />
+      <Footer />*/
     </div>
   );
 }
