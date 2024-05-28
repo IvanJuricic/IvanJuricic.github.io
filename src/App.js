@@ -6,7 +6,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div>
-      <h1>cognaal.ai/h1>
+      <h1>cognaal.ai</h1>
       <h2>stranica jebenica</h2>
       /*<Banner />
       <ImageGallery />
